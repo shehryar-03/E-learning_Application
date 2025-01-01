@@ -13,6 +13,7 @@ This project is created to provde a user-friendly, easy and interactive platform
 ## Upcoming Features
 - Real-time quizzes
 - live classes
+- fix bugs
 
 ## How to Contribute
 1. Clone this repository:  
